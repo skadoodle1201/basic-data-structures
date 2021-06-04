@@ -1,0 +1,3 @@
+﻿  pairwise.cpp
+sum2no.obj : error LNK2005: _main already defined in pairwise.obj
+C:\Users\TANISH\source\repos\Algoritm\Debug\Algoritm.exe : fatal error LNK1169: one or more multiply defined symbols found

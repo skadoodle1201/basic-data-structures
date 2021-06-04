@@ -1,0 +1,2 @@
+C:\Users\TANISH\source\repos\Algoritm\primitivecal\Debug\primitivecal.exe
+C:\Users\TANISH\source\repos\Algoritm\primitivecal\Debug\primitivecal.pdb

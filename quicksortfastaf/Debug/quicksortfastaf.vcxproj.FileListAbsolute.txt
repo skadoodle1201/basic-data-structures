@@ -1,0 +1,2 @@
+C:\Users\TANISH\source\repos\Algoritm\quicksortfastaf\Debug\quicksortfastaf.exe
+C:\Users\TANISH\source\repos\Algoritm\quicksortfastaf\Debug\quicksortfastaf.pdb

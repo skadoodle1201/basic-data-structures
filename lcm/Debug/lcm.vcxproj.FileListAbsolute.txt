@@ -1,0 +1,2 @@
+C:\Users\TANISH\source\repos\lcm\Debug\lcm.exe
+C:\Users\TANISH\source\repos\lcm\Debug\lcm.pdb
